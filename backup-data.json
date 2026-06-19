@@ -59,7 +59,7 @@
           "pushups": 160,
           "pullups": 35,
           "squats": 100,
-          "abs": 0
+          "abs": 100
         },
         "exercises": [
           {
@@ -87,5 +87,5 @@
       }
     }
   },
-  "exportedAt": "2026-06-19T15:17:31.382Z"
+  "exportedAt": "2026-06-19T15:24:06.416Z"
 }
