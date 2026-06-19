@@ -1,4 +1,4 @@
-const CACHE_NAME = 'norma-dnya-v1';
+const CACHE_NAME = 'norma-dnya-v2';
 const ASSETS = [
   './',
   './index.html',
