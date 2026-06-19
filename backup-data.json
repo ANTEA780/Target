@@ -58,7 +58,7 @@
         "progress": {
           "pushups": 120,
           "pullups": 35,
-          "squats": 0,
+          "squats": 30,
           "abs": 0
         },
         "exercises": [
@@ -87,5 +87,5 @@
       }
     }
   },
-  "exportedAt": "2026-06-19T11:13:51.306Z"
+  "exportedAt": "2026-06-19T15:08:41.561Z"
 }
