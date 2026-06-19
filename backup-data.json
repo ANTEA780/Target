@@ -23,6 +23,37 @@
   ],
   "logs": {
     "2026-06": {
+      "18": {
+        "progress": {
+          "pushups": 200,
+          "pullups": 400,
+          "squats": 0,
+          "abs": 0
+        },
+        "exercises": [
+          {
+            "id": "pushups",
+            "label": "Отжимания",
+            "goal": 200
+          },
+          {
+            "id": "pullups",
+            "label": "Подтягивания",
+            "goal": 50
+          },
+          {
+            "id": "squats",
+            "label": "Приседания",
+            "goal": 300
+          },
+          {
+            "id": "abs",
+            "label": "Пресс",
+            "goal": 200
+          }
+        ],
+        "completed": false
+      },
       "19": {
         "progress": {
           "pushups": 100,
@@ -56,5 +87,5 @@
       }
     }
   },
-  "exportedAt": "2026-06-19T10:22:05.932Z"
+  "exportedAt": "2026-06-19T10:28:51.986Z"
 }
