@@ -13,12 +13,12 @@
     {
       "id": "squats",
       "label": "Приседания",
-      "goal": 300
+      "goal": 200
     },
     {
       "id": "abs",
       "label": "Пресс",
-      "goal": 200
+      "goal": 100
     }
   ],
   "logs": {
@@ -75,17 +75,17 @@
           {
             "id": "squats",
             "label": "Приседания",
-            "goal": 300
+            "goal": 200
           },
           {
             "id": "abs",
             "label": "Пресс",
-            "goal": 200
+            "goal": 100
           }
         ],
         "completed": false
       }
     }
   },
-  "exportedAt": "2026-06-19T15:12:07.238Z"
+  "exportedAt": "2026-06-19T15:13:59.804Z"
 }
