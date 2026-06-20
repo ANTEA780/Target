@@ -1,28 +1,28 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "completed": false,
-  "percent": 92,
+  "percent": 0,
   "exercises": [
     {
       "label": "Отжимания",
-      "cur": 160,
-      "goal": 200
+      "cur": 0,
+      "goal": 100
     },
     {
       "label": "Подтягивания",
-      "cur": 43,
-      "goal": 50
+      "cur": 0,
+      "goal": 25
     },
     {
       "label": "Приседания",
-      "cur": 200,
-      "goal": 200
+      "cur": 0,
+      "goal": 100
     },
     {
       "label": "Пресс",
-      "cur": 100,
-      "goal": 100
+      "cur": 0,
+      "goal": 150
     }
   ],
-  "updatedAt": "2026-06-19T17:31:43.947Z"
+  "updatedAt": "2026-06-20T04:23:19.359Z"
 }
