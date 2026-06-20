@@ -3,22 +3,22 @@
     {
       "id": "pushups",
       "label": "Отжимания",
-      "goal": 200
+      "goal": 100
     },
     {
       "id": "pullups",
       "label": "Подтягивания",
-      "goal": 50
+      "goal": 25
     },
     {
       "id": "squats",
       "label": "Приседания",
-      "goal": 200
+      "goal": 100
     },
     {
       "id": "abs",
       "label": "Пресс",
-      "goal": 100
+      "goal": 150
     }
   ],
   "logs": {
@@ -84,8 +84,39 @@
           }
         ],
         "completed": false
+      },
+      "20": {
+        "progress": {
+          "pushups": 0,
+          "pullups": 0,
+          "squats": 0,
+          "abs": 0
+        },
+        "exercises": [
+          {
+            "id": "pushups",
+            "label": "Отжимания",
+            "goal": 100
+          },
+          {
+            "id": "pullups",
+            "label": "Подтягивания",
+            "goal": 25
+          },
+          {
+            "id": "squats",
+            "label": "Приседания",
+            "goal": 100
+          },
+          {
+            "id": "abs",
+            "label": "Пресс",
+            "goal": 150
+          }
+        ],
+        "completed": false
       }
     }
   },
-  "exportedAt": "2026-06-19T17:31:57.172Z"
+  "exportedAt": "2026-06-20T04:23:21.756Z"
 }
