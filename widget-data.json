@@ -1,11 +1,11 @@
 {
   "date": "2026-06-20",
   "completed": false,
-  "percent": 0,
+  "percent": 19,
   "exercises": [
     {
       "label": "Отжимания",
-      "cur": 0,
+      "cur": 75,
       "goal": 100
     },
     {
@@ -24,5 +24,5 @@
       "goal": 150
     }
   ],
-  "updatedAt": "2026-06-20T04:23:19.359Z"
+  "updatedAt": "2026-06-20T16:58:42.234Z"
 }
